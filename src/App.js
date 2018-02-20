@@ -4,8 +4,8 @@ import './App.css';
 
 const emxampleForThePrecommitHook = {
   some: 'object',
-  without: 'trailingComma'
-}
+  without: 'trailingComma',
+};
 
 class App extends Component {
   render() {
