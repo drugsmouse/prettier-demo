@@ -8,7 +8,7 @@ const emxampleForThePrecommitHook = {
 };
 
 // TODO && || operations
-
+const isValid = (1 && 2) || (3 && 4);
 // TODO chain methods
 const items = {
   pc: '1000$',
@@ -23,9 +23,23 @@ const list = {
   today: 'make a Prettier demo',
 };
 
+function someFunc(
+  variable1,
+  variable2,
+  variable21,
+  variable11,
+  variable3,
+  variable4,
+  variable5
+) {}
+
+const VeryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyLong =
+  'looooooooooooooooooooooooooooooooooooooooooooong';
+
 Object.keys(items)
   .map(() => {})
-  .filter(() => {});
+  .filter(() => {})
+  .reduce();
 
 list
   .map()
