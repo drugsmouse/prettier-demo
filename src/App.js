@@ -7,6 +7,31 @@ const emxampleForThePrecommitHook = {
   without: 'trailingComma',
 };
 
+// TODO && || operations
+
+// TODO chain methods
+const items = {
+  pc: '1000$',
+  laptop: '800$',
+  iphoneX: '1500$',
+};
+
+const list = {
+  toady: 'read Medium.com',
+  toady: 'spend some time at Facebook',
+  toady: 'discuss latest news with the guys',
+  today: 'make a Prettier demo',
+};
+
+Object.keys(items)
+  .map(() => {})
+  .filter(() => {});
+
+list
+  .map()
+  .filter()
+  .reduce();
+
 class App extends Component {
   render() {
     return (

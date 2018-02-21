@@ -1,3 +1,20 @@
+## Useful links
+
+ - Line length is important `foo(reallyLongArg(), omgSoManyParameters(), IShouldRefactorThis(), isThereSeriouslyAnotherOne());`
+ - Flow, JSX support
+ - Tries to act as a human: chains context, accents and a lot of others
+ - Detects patterns. E.g. promises chains.
+ - https://www.npmjs.com/package/eslint-to-editorconfig package
+ - ESLint is not able to fix a lot of issues https://eslint.org/docs/rules/
+ - https://prettier.io/docs/en/comparison.html - compare to ESLint
+ - Why do you need trailing commas https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas
+ - Integrate with ESLint https://prettier.io/docs/en/eslint.html
+ - create-react-app uses https://github.com/facebook/create-react-app/search?utf8=%E2%9C%93&q=prettier&type=
+ - How it works under the hood? https://www.youtube.com/watch?v=0Q4kUNx85_4
+
+
+## Create-react-app description
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
